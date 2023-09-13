@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [products.vairagade.com](products.vairagade.com)
 
-- 📫 How to reach me **vijayvairagade.01@gmail.com**
+- 📫 You can reach me on **vijayvairagade.01@gmail.com**
+
+- 💻 Available to work/collaborate on software development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
