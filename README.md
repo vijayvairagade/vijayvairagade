@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **software development**
 
-- 👨‍💻 All of my projects are available at [products.vairagade.com](products.vairagade.com)
+- 👨‍💻 All of my projects are available at [projects.vairagade.com](projects.vairagade.com)
 
 - 📫 You can reach me on **vijayvairagade.01@gmail.com**
 
