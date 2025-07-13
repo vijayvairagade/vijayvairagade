@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **software development**
 
-- 👨‍💻 All of my projects are available at [projects.vairagade.com](projects.vairagade.com)
+- 👨‍💻 All of my projects are available at [DevsHub.net](https://www.devshub.net/vijay/)
 
 - 📫 You can reach me on **vijayvairagade.01@gmail.com**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vijayvairagade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijayvairagade" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vijay-vairagade-8a744b205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-vairagade-8a744b205" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijayvairagade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-vairagade-8a744b205" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
